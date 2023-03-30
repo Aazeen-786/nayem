@@ -1,2 +1,0 @@
-# nayem
-Approval.tex
